@@ -1,1 +1,3 @@
-This should be for login
+This file is much better
+
+This is supposed to be a "good idea"
